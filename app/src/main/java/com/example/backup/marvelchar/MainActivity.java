@@ -32,8 +32,8 @@ import java.util.Map;
 public class MainActivity extends AppCompatActivity {
 
     private static final String URL_DATA = "https://gateway.marvel.com/v1/public/characters?apikey=773b220d2281fa956cfd6e962a2855c5&hash=";
-    private static final String privateKey="84c8c8d2fb3e6df265e83ec3294f34a3caaccde3";
-    private static final String publiceKey="773b220d2281fa956cfd6e962a2855c5";
+    private static final String privateKey="xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx";
+    private static final String publiceKey="xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx";
     public String ImageURL;
 
 
